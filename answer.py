@@ -3,6 +3,7 @@ def hello_world():
     Prints 'Hello, World!' to the console.
     """
     # This is a simple print statement to display a greeting message
+    #push 1
     print("Hello, World!")
 
 def add(a, b):
@@ -19,3 +20,4 @@ def add(a, b):
     # Simple code to add variable a and b
     output = a + b
     return output
+hello_world()
