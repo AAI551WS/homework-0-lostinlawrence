@@ -20,4 +20,4 @@ def add(a, b):
     # Simple code to add variable a and b
     output = a + b
     return output
-hello_world()
+
